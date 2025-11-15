@@ -5,7 +5,7 @@ import base64
 
 def cifrar_aes_256(texto_plano):
     """
-    Realiza una sola capa de cifrado AES-256 en modo CBC.
+    Realiza una sola capa de cifrado AES-256 en modo Bloque.
     
     :param texto_plano: Cadena de texto a cifrar.
     :return: Diccionario con la clave, el IV y el texto cifrado (todo en formato Base64).
