@@ -1,0 +1,4 @@
+proyecto_aes/
+├── venv/       <-- CARPETA DEL ENTORNO VIRTUAL (NO TOCAR)
+├── aes_ejemplo.py <-- ARCHIVO DE TU CÓDIGO (aquí debes crearlo)
+├── documento.txt <-- Otros archivos de tu proyecto
